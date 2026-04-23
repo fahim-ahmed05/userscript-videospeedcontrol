@@ -40,13 +40,3 @@ Easily control the playback speed of videos (1x to 5x) using keyboard shortcuts 
 - Speed persists across newly loaded videos (e.g., infinite scroll).
 - Displays a brief on-screen overlay showing the current speed setting.
 
-## Donate
-
-Open-source is powered by coffee and curiosity. Thanks for your support!
-
-<a href="https://www.buymeacoffee.com/fahim.ahmed" target="_blank">
-  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" 
-       alt="Buy Me A Coffee" 
-       style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5); -webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5);" />
-</a>
-
